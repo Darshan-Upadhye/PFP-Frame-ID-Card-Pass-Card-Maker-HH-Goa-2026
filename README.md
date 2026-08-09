@@ -152,7 +152,7 @@ Built for **Hacker House Goa 2026**.
 
 ## 📸 Screenshots
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/41ff1413-cf47-4393-97e5-9d427946e39f" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/41ff1413-cf47-4393-97e5-9d427946e39f" />
 
 <img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/5f83acd5-565a-4e92-8955-ea997d0f5957" />
 
