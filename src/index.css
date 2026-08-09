@@ -1,0 +1,68 @@
+@import "tailwindcss";
+@import "@fontsource/space-grotesk/latin-500.css";
+@import "@fontsource/space-grotesk/latin-600.css";
+@import "@fontsource/space-grotesk/latin-700.css";
+@import "@fontsource/baloo-2/latin-600.css";
+@import "@fontsource/baloo-2/latin-700.css";
+@import "@fontsource/baloo-2/latin-800.css";
+@import "@fontsource/baloo-2/devanagari-600.css";
+@import "@fontsource/baloo-2/devanagari-700.css";
+@import "@fontsource/baloo-2/devanagari-800.css";
+@import "@fontsource/jetbrains-mono/latin-400.css";
+@import "@fontsource/jetbrains-mono/latin-500.css";
+@import "@fontsource/jetbrains-mono/latin-700.css";
+
+@theme {
+  --color-bg-deep: #04140d;
+  --color-bg-mid: #0a2318;
+  --color-bg-panel: #0e2e1e;
+  --color-hh-green: #123a24;
+  --color-hh-green-line: #1c5535;
+  --color-hh-yellow: #fee101;
+  --color-hh-pink: #ff2fb8;
+  --color-hh-cyan: #4dfbff;
+  --color-hh-cream: #f4f7ee;
+
+  --font-display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-devanagari: "Baloo 2", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(ellipse at 50% -10%, #123a24 0%, #0a2318 45%, #04140d 100%);
+  background-attachment: fixed;
+  color: var(--color-hh-cream);
+  font-family: var(--font-display);
+  -webkit-font-smoothing: antialiased;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #1c5535, #1c5535);
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #fee101, #ff2fb8);
+  border: 2px solid #04140d;
+  cursor: pointer;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #fee101, #ff2fb8);
+  border: 2px solid #04140d;
+  cursor: pointer;
+}
