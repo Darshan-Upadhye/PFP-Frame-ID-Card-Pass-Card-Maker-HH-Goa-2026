@@ -142,11 +142,11 @@ Built for **Hacker House Goa 2026**.
 
 ## 💳 Card Design
 
-<img width="1200" height="1640" alt="image" src="https://github.com/user-attachments/assets/b5346c42-67d1-49ad-8203-822e9951b5a8" />
+<img width="600" height="820" alt="image" src="https://github.com/user-attachments/assets/b5346c42-67d1-49ad-8203-822e9951b5a8" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1d37e788-03cd-409e-9858-31a2ab7a0080" />
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/1d37e788-03cd-409e-9858-31a2ab7a0080" />
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0428e75-3f46-495e-b07e-fd93b955d9ef" />
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/c0428e75-3f46-495e-b07e-fd93b955d9ef" />
 
 ---
 
@@ -154,21 +154,21 @@ Built for **Hacker House Goa 2026**.
 
 <img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/41ff1413-cf47-4393-97e5-9d427946e39f" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/5f83acd5-565a-4e92-8955-ea997d0f5957" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/5f83acd5-565a-4e92-8955-ea997d0f5957" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/71f8f754-50b8-4794-8ca6-4a12f50bedd2" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/71f8f754-50b8-4794-8ca6-4a12f50bedd2" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/ee274cb1-3c5e-42a1-87e0-a77db846ab83" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/ee274cb1-3c5e-42a1-87e0-a77db846ab83" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/8acd0dad-d36b-46e5-87af-972fb2834426" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/8acd0dad-d36b-46e5-87af-972fb2834426" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/e279f7fc-4284-47b7-a9bd-6bad526c8316" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/e279f7fc-4284-47b7-a9bd-6bad526c8316" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/31a1adf0-aaf5-4332-a984-2376d7110d22" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/31a1adf0-aaf5-4332-a984-2376d7110d22" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/b2c69cff-89d7-4c1b-8a6b-557bad55811e" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/b2c69cff-89d7-4c1b-8a6b-557bad55811e" />
 
-<img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/b85a6367-572a-4fdb-9f83-54b6089df755" />
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/b85a6367-572a-4fdb-9f83-54b6089df755" />
 
 ---
 
