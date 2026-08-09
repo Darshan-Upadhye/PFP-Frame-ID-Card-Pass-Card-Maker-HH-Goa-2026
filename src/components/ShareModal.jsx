@@ -48,7 +48,9 @@ export default function ShareModal({ open, onClose, canvasRef, format, cardMode,
     try {
       const result = await shareToX(canvasRef.current, { caption, filename })
       if (result === 'downloaded-fallback') {
-        setNote('Image downloaded — attach it in the X app (or the compose tab) that just opened.')
+        setNote('Image downloaded — this browser can\u2019t attach it directly, so paste it into the X app/tab that just opened.')
+      } else if (result === 'shared') {
+        onClose()
       }
     } catch {
       setNote('Could not open share. Try again, or use Copy text + Download.')

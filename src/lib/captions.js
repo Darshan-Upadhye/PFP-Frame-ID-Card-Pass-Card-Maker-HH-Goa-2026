@@ -1,4 +1,4 @@
-const SHARE_LINK = 'https://darshan-upadhye-portfolio.vercel.app/'
+const SHARE_LINK = 'https://pfp-frame-id-card-pass-card-maker-hhgoa-2026.vercel.app/'
 
 const OPENERS = {
   pfp: [

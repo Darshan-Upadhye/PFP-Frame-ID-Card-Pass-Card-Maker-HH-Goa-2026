@@ -29,7 +29,7 @@ function isAndroid() {
   return /Android/.test(navigator.userAgent)
 }
 
-function openXApp(caption) {
+function openXAppTextOnly(caption) {
   const text = encodeURIComponent(caption)
 
   if (isAndroid()) {
@@ -56,7 +56,19 @@ function openXApp(caption) {
 }
 
 export async function shareToX(canvas, { caption, filename }) {
+  const blob = await canvasToBlob(canvas)
+  const file = new File([blob], filename, { type: 'image/png' })
+
+  if (navigator.canShare && navigator.canShare({ files: [file] })) {
+    try {
+      await navigator.share({ files: [file], text: caption })
+      return 'shared'
+    } catch (err) {
+      if (err && err.name === 'AbortError') return 'cancelled'
+    }
+  }
+
   await downloadCanvasPNG(canvas, filename)
-  openXApp(caption)
+  openXAppTextOnly(caption)
   return 'downloaded-fallback'
 }
