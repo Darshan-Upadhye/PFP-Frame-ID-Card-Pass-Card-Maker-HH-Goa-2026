@@ -140,16 +140,10 @@ Built for **Hacker House Goa 2026**.
 
 ---
 
-<p align="center">
-  <sub>Made with 🌴, canvas gradients, and a slightly-too-ambitious lanyard animation.</sub>
-</p>
-
----
-
 ## 💳 Card Design
 
-<img width="200" height="240" alt="image" src="https://github.com/user-attachments/assets/648e04b6-dedd-439c-b4e3-7624aae1e35f" />
-<img width="720" height="1200" alt="image" src="https://github.com/user-attachments/assets/9728b3b1-3ac0-4b8b-a9f9-84713b70fc04" />
+<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/648e04b6-dedd-439c-b4e3-7624aae1e35f" />
+<img width="720" height="200" alt="image" src="https://github.com/user-attachments/assets/9728b3b1-3ac0-4b8b-a9f9-84713b70fc04" />
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ddea041-0a38-41df-a764-e2fe233fdc7c" />
 
 ---
@@ -173,3 +167,11 @@ Built for **Hacker House Goa 2026**.
 <img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/b2c69cff-89d7-4c1b-8a6b-557bad55811e" />
 
 <img width="806" height="1640" alt="image" src="https://github.com/user-attachments/assets/b85a6367-572a-4fdb-9f83-54b6089df755" />
+
+---
+
+<p align="center">
+  <sub>Made with 🌴, canvas gradients, and a slightly-too-ambitious lanyard animation.</sub>
+</p>
+
+---
