@@ -142,9 +142,11 @@ Built for **Hacker House Goa 2026**.
 
 ## 💳 Card Design
 
-<img width="200" height="440" alt="image" src="https://github.com/user-attachments/assets/648e04b6-dedd-439c-b4e3-7624aae1e35f" />
-<img width="720" height="200" alt="image" src="https://github.com/user-attachments/assets/9728b3b1-3ac0-4b8b-a9f9-84713b70fc04" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9ddea041-0a38-41df-a764-e2fe233fdc7c" />
+<img width="1200" height="1640" alt="image" src="https://github.com/user-attachments/assets/b5346c42-67d1-49ad-8203-822e9951b5a8" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1d37e788-03cd-409e-9858-31a2ab7a0080" />
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0428e75-3f46-495e-b07e-fd93b955d9ef" />
 
 ---
 
